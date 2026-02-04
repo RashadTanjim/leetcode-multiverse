@@ -1,0 +1,2 @@
+class NumArray:
+    pass

@@ -1,0 +1,2 @@
+class BSTIterator:
+    pass

@@ -1,0 +1,2 @@
+class LFUCache:
+    pass

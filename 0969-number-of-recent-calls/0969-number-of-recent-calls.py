@@ -1,0 +1,2 @@
+class RecentCounter:
+    pass

@@ -1,0 +1,2 @@
+class SmallestInfiniteSet:
+    pass
