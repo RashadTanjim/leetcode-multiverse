@@ -139,6 +139,7 @@ Collection of LeetCode questions & solutions. Leetcode Profile: https://leetcode
 | [1876-map-of-highest-peak](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2058-concatenation-of-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2102-find-the-middle-index-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2428-equal-row-and-column-pairs) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions & solutions. Leetcode Profile: https://leetcode
 | [0068-text-justification](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/2553-total-cost-to-hire-k-workers) |
