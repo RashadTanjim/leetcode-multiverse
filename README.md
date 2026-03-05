@@ -133,6 +133,7 @@ Collection of LeetCode questions & solutions. Leetcode Profile: https://leetcode
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1483-rank-teams-by-votes](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1483-rank-teams-by-votes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/RashadTanjim/LeetCode-Multiverse/tree/master/1833-find-the-highest-altitude) |
